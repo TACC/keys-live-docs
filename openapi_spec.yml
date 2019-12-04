@@ -498,7 +498,7 @@ components:
         status:
           type: string
           description: Whether the request was a success or failure.
-          enum: [success, failure]
+          enum: [failure, success]
         result:
           type: object
     KeysResp:
