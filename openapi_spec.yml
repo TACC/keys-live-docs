@@ -16,7 +16,7 @@ servers:
 - url: http://keys-staging.tacc.cloud/keys
   description: Staging.
 tags:
-- name: tags
+- name: tag
   description: Accessing and organizing keys via tags.
 - name: username
   description: Accessing and organzing keys via username.
