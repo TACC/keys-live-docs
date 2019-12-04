@@ -25,7 +25,6 @@ tags:
 
 security:
   - wso2jwtDevAuth: []
-  - nonce: []
 
 paths:
   /:
@@ -564,4 +563,5 @@ components:
           schema:
             allOf:
               - $ref: '#/components/schemas/KeysRespArray'
+              
 
